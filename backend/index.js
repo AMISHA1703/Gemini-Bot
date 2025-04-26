@@ -24,9 +24,9 @@ async function generate(prompt) {
 }
 
 // Root route
-app.get("/", (req, res) => {
-  res.send("Hello! Gemini is live 🔥");
-});
+// app.get("/", (req, res) => {
+//   res.send("Hello! Gemini is live 🔥");
+// });
 
 // Chat route (POST)
 app.post("/api/chat", async (req, res) => {
