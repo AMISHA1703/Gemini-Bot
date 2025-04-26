@@ -5,7 +5,7 @@
 ## Demo
 
 You can try the live demo of Gemini Bot here:  
-[Demo Link](https://your-demo-link.com)
+[Demo Link]()
 
 
 ## Features
